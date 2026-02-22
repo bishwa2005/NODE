@@ -11,3 +11,4 @@ what are core modules?
 what are global modules?
     jisko import karne ki jarurat hi na pade  eg:console
     aur jisko import karna pade wo non-global   eg:fs
+ 
