@@ -1,0 +1,3 @@
+what is node mon
+    nodemon humare js project ko continously run karte rehta hai jisse har chote update ke liye fir se run pura run nai karna padta
+    
