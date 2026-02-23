@@ -1,0 +1,11 @@
+package.json hota kya hai?
+    ye humare file ki puri details rakhta hai kitne file hai kya version hai 
+
+how to download package?
+    npm i <package-name>
+    agr apn khali npm i likh de to sare package jo package.json ke dependencies mein hai wo sab apne aap download ho jayegi
+
+package lock json   
+    package json to simply jitne package hum khud install kiye hai wo rakhta hai 
+    lekin package lock json package ke sth aur lib jo download hui hai wo bhi detailed 
+    mein store rakhta hai
